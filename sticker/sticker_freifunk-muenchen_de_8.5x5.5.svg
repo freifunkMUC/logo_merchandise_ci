@@ -14,10 +14,10 @@
    id="svg3320"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="ffmuc_sticker_8.5x5.5.svg"
-   inkscape:export-filename="/home/chris/ownCloud/tmp/dl0muc_sticker_0102.jpg.png"
-   inkscape:export-xdpi="600"
-   inkscape:export-ydpi="600">
+   sodipodi:docname="sticker_freifunk-muenchen_de_8.5x5.5.svg"
+   inkscape:export-filename="/home/chris/projects/ffmuc/logo_merchandise_ci/sticker/export/sticker_freifunk-muenchen_de_9.5x5.5_72dpi.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
   <defs
      id="defs3322">
     <linearGradient
@@ -92,7 +92,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

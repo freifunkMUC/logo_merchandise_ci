@@ -9,48 +9,17 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="201.96851"
-   height="308.2677"
-   id="svg3320"
+   width="5314.9604"
+   height="2834.6455"
+   id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sticker_hiergibtsffmuc_5.5x8.5.svg"
-   inkscape:export-filename="/home/chris/ownCloud/tmp/dl0muc_sticker_0102.jpg.png"
-   inkscape:export-xdpi="600"
-   inkscape:export-ydpi="600">
+   sodipodi:docname="banner_freifunk-muenchen_1500x800.svg"
+   inkscape:export-filename="/home/chris/projects/ffmuc/logo_merchandise_ci/banner/banner_freifunk-muenchen_1500x800.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
   <defs
-     id="defs3322">
-    <linearGradient
-       id="linearGradient6506">
-      <stop
-         id="stop6508"
-         offset="0"
-         style="stop-color:yellow;stop-opacity:1;" />
-      <stop
-         style="stop-color:yellow;stop-opacity:1;"
-         offset="1"
-         id="stop6514" />
-      <stop
-         id="stop6510"
-         offset="1"
-         style="stop-color:yellow;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient6518">
-      <stop
-         id="stop6520"
-         offset="0"
-         style="stop-color:yellow;stop-opacity:1;" />
-      <stop
-         style="stop-color:yellow;stop-opacity:1;"
-         offset="0.99000001"
-         id="stop6528" />
-      <stop
-         id="stop6522"
-         offset="1"
-         style="stop-color:yellow;stop-opacity:0;" />
-    </linearGradient>
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -58,34 +27,37 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="137.03826"
-     inkscape:cy="146.04759"
-     inkscape:document-units="mm"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="2698.9447"
+     inkscape:cy="1184.499"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
-     units="cm"
-     inkscape:window-width="1920"
-     inkscape:window-height="1055"
-     inkscape:window-x="0"
+     showgrid="false"
+     units="mm"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-page="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid3064"
+       id="grid2985"
        empspacing="5"
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
        units="mm"
-       dotted="false"
-       spacingx="0.1mm"
-       spacingy="0.1mm" />
+       spacingx="10mm"
+       spacingy="10mm" />
   </sodipodi:namedview>
   <metadata
-     id="metadata3325">
+     id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -100,12 +72,34 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-744.09318)">
+     transform="translate(0,1782.2834)">
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="3442.8572"
+       y="2194.6455"
+       id="text7187"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-1782.2834)"><tspan
+         sodipodi:role="line"
+         id="tspan7189" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2561.7468"
+       y="2697.2649"
+       id="text7209"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-1782.2834)"><tspan
+         sodipodi:role="line"
+         id="tspan7211"
+         x="2561.7468"
+         y="2697.2649" /></text>
     <g
        inkscape:export-ydpi="90.93"
        inkscape:export-xdpi="90.93"
        inkscape:export-filename="/home/frank/Desktop/ffmuc-logo.png"
-       transform="matrix(0.73207118,0,0,0.73207118,-240.33628,754.07737)"
+       transform="matrix(6.5288827,0,0,6.5288827,1250.3587,-1397.9323)"
        id="g3105">
       <path
          style="fill:#de2c68;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -126,66 +120,59 @@
       <polygon
          id="polygon3113"
          transform="matrix(-2.9653139,0,0,2.8107053,598.4733,-6.8153649)"
-         points="31,44 26,44 30,48 22,48 22,52 30,52 26,56 31,56 37,50 "
+         points="26,44 30,48 22,48 22,52 30,52 26,56 31,56 37,50 31,44 "
          style="fill:#ffcc33;fill-opacity:1" />
       <polygon
          id="polygon3115"
          transform="matrix(-2.245542,0,0,2.3239991,592.98133,19.506435)"
-         points="73,41 64,50 73,59 81,59 75,53 88,53 88,47 75,47 81,41 "
+         points="64,50 73,59 81,59 75,53 88,53 88,47 75,47 81,41 73,41 "
          style="fill:#ffcc33;fill-opacity:1" />
     </g>
-    <flowRoot
-       transform="matrix(0.55254901,0,0,0.55254901,7.6190921,846.83112)"
-       xml:space="preserve"
-       id="flowRoot3130"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-         id="flowRegion3132"><rect
-           id="rect3134"
-           width="196.97975"
-           height="68.690376"
-           x="81.822357"
-           y="120.51926" /></flowRegion><flowPara
-         id="flowPara3136"
-         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ume UI Gothic O5;-inkscape-font-specification:Ume UI Gothic O5">DL0MUC</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.55254901,0,0,0.55254901,7.6190921,470.9245)"
-       xml:space="preserve"
-       id="flowRoot3138"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-         id="flowRegion3140"><rect
-           id="rect3142"
-           width="225.26402"
-           height="122.22845"
-           x="37.375645"
-           y="123.54971" /></flowRegion><flowPara
-         id="flowPara3144" /></flowRoot>  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 2"
-     transform="translate(0,106.29919)">
     <text
        xml:space="preserve"
-       style="font-size:28.83348846px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:swiss;-inkscape-font-specification:swiss"
-       x="12.173228"
-       y="-67.32283"
-       id="text3063"
+       style="font-size:13.3719883px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:swiss;-inkscape-font-specification:swiss"
+       x="3033.3828"
+       y="851.57001"
+       id="text3182"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3065"
-         x="12.173228"
-         y="-67.32283"
-         style="font-family:Swiss 911;-inkscape-font-specification:Swiss 911">freifunk-muenchen.de</tspan></text>
-    <flowRoot
+         id="tspan3184"
+         x="3033.3828"
+         y="851.57001"
+         style="font-size:334.29971313px;font-family:Swiss 911;-inkscape-font-specification:Swiss 911">freifunk-muenchen.de</tspan></text>
+    <text
        xml:space="preserve"
-       id="flowRoot3086"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:swiss;-inkscape-font-specification:swiss"
-       transform="matrix(6.763337,0,0,6.763337,40.056262,-1081.7748)"><flowRegion
-         id="flowRegion3088"><rect
-           id="rect3090"
-           width="180.81731"
-           height="47.477169"
-           x="-3.5355339"
-           y="174.42249" /></flowRegion><flowPara
-         id="flowPara3092"
-         style="font-size:12px;font-family:Swiss 911;-inkscape-font-specification:Swiss 911">Hotspot</flowPara></flowRoot>  </g>
+       style="font-size:25.70300674px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:swiss;-inkscape-font-specification:swiss"
+       x="196.58971"
+       y="456.74435"
+       id="text3182-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3184-7"
+         x="196.58971"
+         y="456.74435"
+         style="font-size:642.57513428px;font-family:Swiss 911;-inkscape-font-specification:Swiss 911">Freifunk München</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.36103725px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:swiss;-inkscape-font-specification:swiss"
+       x="193.94933"
+       y="-1398.0312"
+       id="text3182-1-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="193.94933"
+         y="-1398.0312"
+         style="font-size:234.02587891px;font-family:Symbol;-inkscape-font-specification:Symbol"
+         id="tspan3515">Die nichtkommerzielle Initiative</tspan><tspan
+         sodipodi:role="line"
+         x="193.94933"
+         y="-1105.4989"
+         style="font-size:234.02587891px;font-family:Symbol;-inkscape-font-specification:Symbol"
+         id="tspan3521">für ein freies und unabhängiges</tspan><tspan
+         sodipodi:role="line"
+         x="193.94933"
+         y="-812.96661"
+         style="font-size:234.02587891px;font-family:Symbol;-inkscape-font-specification:Symbol"
+         id="tspan3499">WLAN Netz in München</tspan></text>
+  </g>
 </svg>
