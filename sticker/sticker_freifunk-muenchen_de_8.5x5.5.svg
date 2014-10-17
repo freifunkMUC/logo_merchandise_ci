@@ -14,7 +14,7 @@
    id="svg3320"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sticker_freifunk-muenchen_de_8.5x5.5.svg"
+   sodipodi:docname="sticker_freifunk-muenchen_de_8.5x5.5.pdf"
    inkscape:export-filename="/home/chris/projects/ffmuc/logo_merchandise_ci/sticker/export/sticker_freifunk-muenchen_de_9.5x5.5_72dpi.png"
    inkscape:export-xdpi="72"
    inkscape:export-ydpi="72">
@@ -58,15 +58,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="150.35369"
-     inkscape:cy="112.92567"
+     inkscape:zoom="1.979899"
+     inkscape:cx="98.408718"
+     inkscape:cy="111.34351"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="true"
      units="cm"
-     inkscape:window-width="1920"
-     inkscape:window-height="1055"
+     inkscape:window-width="1280"
+     inkscape:window-height="750"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -102,7 +102,7 @@
      id="layer1"
      transform="translate(0,-850.39237)">
     <g
-       transform="translate(-218.42857,408.85584)"
+       transform="matrix(0.94397665,0,0,0.94397665,-202.00602,434.34341)"
        id="layer1-5"
        inkscape:label="Layer 1">
       <g
@@ -151,12 +151,12 @@
              id="circle3040" />
           <polygon
              style="fill:#ffcc33;fill-opacity:1"
-             points="22,52 30,52 26,56 31,56 37,50 31,44 26,44 30,48 22,48 "
+             points="31,44 26,44 30,48 22,48 22,52 30,52 26,56 31,56 37,50 "
              transform="matrix(1.4493674,0,0,1.3737988,-2.70016,2.5042672)"
              id="polygon3042" />
           <polygon
              style="fill:#ffcc33;fill-opacity:1"
-             points="75,47 81,41 73,41 64,50 73,59 81,59 75,53 88,53 88,47 "
+             points="81,59 75,53 88,53 88,47 75,47 81,41 73,41 64,50 73,59 "
              transform="matrix(1.5159598,0,0,1.568926,-5.2784314,-7.233634)"
              id="polygon3044" />
         </g>
@@ -185,12 +185,12 @@
           <polygon
              id="polygon3113"
              transform="matrix(-2.9653139,0,0,2.8107053,598.4733,-6.8153649)"
-             points="37,50 31,44 26,44 30,48 22,48 22,52 30,52 26,56 31,56 "
+             points="22,52 30,52 26,56 31,56 37,50 31,44 26,44 30,48 22,48 "
              style="fill:#ffcc33;fill-opacity:1" />
           <polygon
              id="polygon3115"
              transform="matrix(-2.245542,0,0,2.3239991,592.98133,19.506435)"
-             points="81,41 73,41 64,50 73,59 81,59 75,53 88,53 88,47 75,47 "
+             points="75,53 88,53 88,47 75,47 81,41 73,41 64,50 73,59 81,59 "
              style="fill:#ffcc33;fill-opacity:1" />
         </g>
       </g>
@@ -227,13 +227,13 @@
        xml:space="preserve"
        style="font-size:45.0161705px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:swiss;-inkscape-font-specification:swiss"
        x="15"
-       y="192.3602"
+       y="194.3602"
        id="text3063"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3065"
          x="15"
-         y="192.3602"
+         y="194.3602"
          style="font-family:Swiss 911;-inkscape-font-specification:Swiss 911">freifunk-muenchen.de</tspan></text>
   </g>
 </svg>
