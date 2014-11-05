@@ -1,0 +1,61 @@
+% ungetestet
+%
+% Firmware: 0.6~stable20141018
+% Gerät: TP-Link TL-WR841N
+
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}	%Zeichencodierung Text
+\usepackage[T1]{fontenc}
+\newcommand{\changefont}[3]{
+\fontfamily{#1} \fontseries{#2} \fontshape{#3} \selectfont}
+\usepackage{textcomp}
+\usepackage[ngerman]{babel}	%Wortdefinitionen
+\usepackage[a5paper,%
+ left=20mm,%
+ right=20mm,%
+ top=20mm,%
+ bottom=20mm]{geometry}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{freifunk-muenchen.de}
+\lhead{Freifunk München}
+\rfoot{Mehr Informationen zur Einrichtung unter www.freifunk-muenchen.de}
+
+\renewcommand{\headrulewidth}{1pt}
+\renewcommand{\footrulewidth}{1pt}
+
+\renewcommand{\thefootnote}{\roman{footnote}}
+
+\begin{document}
+
+\changefont{phv}{m}{n}
+
+\section*{Kurzanleitung zur Inbetriebnahme}
+
+\begin{enumerate}
+\item Schließe den Freifunk-Router mit dem mitgelieferten Netzteil an das Stromnetz an.
+
+\item Stecke das mitgelieferte LAN-Kabel mit dem einen Ende in die \textbf{LAN}-Buchse deines Computers und mit dem anderen in die \textbf{WAN}-Buchse (blau) des Freifunk-Routers.
+
+\item Rufe im Browser des Computers \textbf{192.168.1.1} auf. \label{webinterface}
+
+\item Konfiguriere deinen Freifunk-Router. 
+\begin{enumerate}  
+  \item Optional können Geokoordinaten\footnote{Mit Hilfe des Werkzeugs \textit{Koordinaten beim nächsten Klicken anzeigen} der Knotenkarte auf freifunk-muenchen.de ermittelbar.} für den Standort des Freifunk-Routers und Kontaktdaten angegeben werden.
+
+  \item Klicke unten rechts auf \glqq{}Fertig\grqq{}. \label{fertig}
+
+  \textit{Die Konfigurationsseite des Freifunk-Routers ist nun nicht mehr erreichbar.} \footnote{Durch 3-5 sekündiges Drücken der Reset-Taste wird der Konfigurationsmodus des Routers wieder aktiviert. Anschließend kann wie in Schritt \ref{webinterface} fortgefahren werden.}
+\end{enumerate}
+
+\item (optional) Verbinde nun die \textbf{WAN}-Buchse (blau) des Freifunk-Routers mit einer \textbf{LAN}-Buchse Deines Heimrouters, der Verbindung zum Internet hat. \footnote{Der Freifunk-Router kann sich so mit Hilfe des Mesh-VPN über das Internet mit dem übrigen Freifunk München Intranet verbinden.}
+
+\item Platziere den Freifunk-Router an einem Ort deiner Wahl. \label{platzieren}
+
+\item Fertig!
+\end{enumerate}
+
+\end{document}
