@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg21438"
+    sodipodi:docname="ap.svg"
+    viewBox="0 0 158.08 170.43"
+    sodipodi:version="0.32"
+    version="1.0"
+    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+    inkscape:version="0.46"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      guidetolerance="10"
+      pagecolor="#ffffff"
+      gridtolerance="10000"
+      inkscape:zoom="1.979899"
+      objecttolerance="10"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="g21428"
+      inkscape:cx="372.9923"
+      inkscape:cy="41.085987"
+      units="in"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-70.313 -10.68)"
+    >
+    <g
+        id="g21428"
+        transform="translate(-21.737 312.57)"
+      >
+      <g
+          id="g21509"
+          transform="matrix(1.3315 0 0 1.3315 -42.115 49.948)"
+        >
+        <path
+            id="path14319"
+            sodipodi:nodetypes="cccccs"
+            style="fill:#3d7ca6"
+            d="m168.85-195.74c-1.13-3.81-3-11.51-9-11.51s-8 7.68-9 11.51l-16 53.73c5 7.68 45 7.68 49.91 0l-15.91-53.73z"
+        />
+        <path
+            id="path14333"
+            style="fill:#3d7ca6"
+            d="m167.77-225.26c0 4.14-3.35 7.5-7.5 7.5-4.14 0-7.5-3.36-7.5-7.5s3.36-7.5 7.5-7.5c4.15 0 7.5 3.36 7.5 7.5z"
+        />
+        <path
+            id="path14345"
+            style="fill-rule:evenodd;stroke:#3d7ca6;stroke-linecap:round;stroke-width:6.3702;fill:#3d7ca6"
+            d="m175.06-236.91s4.07 4.17 4.07 12.1m-4.07 12.05s4.07-4.17 4.07-12.1"
+        />
+        <path
+            id="path14347"
+            style="fill-rule:evenodd;stroke:#3d7ca6;stroke-linecap:round;stroke-width:6.3702;fill:#3d7ca6"
+            d="m188.95-248.99s8.14 8.35 8.14 24.21m-8.14 24.1s8.14-8.34 8.14-24.2"
+        />
+        <path
+            id="path14349"
+            style="fill-rule:evenodd;stroke:#3d7ca6;stroke-linecap:round;stroke-width:6.3702;fill:#3d7ca6"
+            d="m204.09-261.06s12.22 12.51 12.22 36.3m-12.22 36.16s12.22-12.52 12.22-36.31"
+        />
+        <path
+            id="path14351"
+            style="fill-rule:evenodd;stroke:#3d7ca6;stroke-linecap:round;stroke-width:6.3702;fill:#3d7ca6"
+            d="m144.77-236.91s-4.07 4.17-4.07 12.1m4.07 12.05s-4.07-4.17-4.07-12.1"
+        />
+        <path
+            id="path14353"
+            style="fill-rule:evenodd;stroke:#3d7ca6;stroke-linecap:round;stroke-width:6.3702;fill:#3d7ca6"
+            d="m131.31-248.99s-8.15 8.35-8.15 24.21m8.15 24.1s-8.15-8.34-8.15-24.2"
+        />
+        <path
+            id="path14355"
+            style="fill-rule:evenodd;stroke:#3d7ca6;stroke-linecap:round;stroke-width:6.3702;fill:#3d7ca6"
+            d="m116.16-261.06s-12.21 12.51-12.21 36.3m12.21 36.16s-12.21-12.52-12.21-36.31"
+        />
+      </g
+      >
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Wireless access point</dc:title
+        >
+        <dc:date
+          >2008-03-19T18:32:07</dc:date
+        >
+        <dc:description
+          >A symbol for an 802.11 access point or base station. Designed to look OK when printed on 600 dpi laser printers -- hence no gradients.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/15868/wireless-access-point-by-no_hope</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >no_hope</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >bw printer friendly</rdf:li
+            >
+            <rdf:li
+              >computer</rdf:li
+            >
+            <rdf:li
+              >hardware</rdf:li
+            >
+            <rdf:li
+              >radio</rdf:li
+            >
+            <rdf:li
+              >router</rdf:li
+            >
+            <rdf:li
+              >wireless</rdf:li
+            >
+            <rdf:li
+              >wlan</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
