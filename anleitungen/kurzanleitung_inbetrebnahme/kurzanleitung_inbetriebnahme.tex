@@ -17,11 +17,12 @@
  top=20mm,%
  bottom=20mm]{geometry}
 \usepackage{fancyhdr}
+\usepackage{graphicx}
 
 \pagestyle{fancy}
 \fancyhf{}
-\rhead{freifunk-muenchen.de}
-\lhead{Freifunk München}
+\rhead{www.freifunk-muenchen.de}
+\lhead{\includegraphics[keepaspectratio=true, scale=0.05]{Ffmuc-logo-250.png} Freifunk München}
 \rfoot{Mehr Informationen zur Einrichtung unter www.freifunk-muenchen.de}
 
 \renewcommand{\headrulewidth}{1pt}
@@ -33,27 +34,33 @@
 
 \changefont{phv}{m}{n}
 
-\section*{Kurzanleitung zur Inbetriebnahme}
+
+
+\section*{Kurzanleitung zur Inbetriebnahme Deines Freifunk Routers}
+Am Beispiel eines \textbf{TP-Link TL-WR841N} (Stand: 05.11.2014)
 
 \begin{enumerate}
-\item Schließe den Freifunk-Router mit dem mitgelieferten Netzteil an das Stromnetz an.
+\item Schließe den Freifunk-Router mit dem mitgelieferten Netzteil an das 
+    Stromnetz an und schalte ihn ein.
 
-\item Stecke das mitgelieferte LAN-Kabel mit dem einen Ende in die \textbf{LAN}-Buchse deines Computers und mit dem anderen in die \textbf{WAN}-Buchse (blau) des Freifunk-Routers.
+\item Stecke das mitgelieferte LAN-Kabel mit dem einen Ende in die \textbf{LAN}-Buchse deines Computers und mit dem anderen in die blaue \textbf{WAN}-Buchse des Freifunk-Routers.
 
-\item Rufe im Browser des Computers \textbf{192.168.1.1} auf. \label{webinterface}
+\item Rufe im Browser Deines Computers \textbf{http://192.168.1.1} auf. \label{webinterface}
 
 \item Konfiguriere deinen Freifunk-Router. 
-\begin{enumerate}  
+\begin{enumerate}
+  \item Gib deinem Router einen Namen oder akzeptiere die vorgeschlagene Bezeichnung.
+
   \item Optional können Geokoordinaten\footnote{Mit Hilfe des Werkzeugs \textit{Koordinaten beim nächsten Klicken anzeigen} der Knotenkarte auf freifunk-muenchen.de ermittelbar.} für den Standort des Freifunk-Routers und Kontaktdaten angegeben werden.
 
-  \item Klicke unten rechts auf \glqq{}Fertig\grqq{}. \label{fertig}
+  \item Klicke unten rechts auf \glqq{}Fertig\grqq{}.
 
-  \textit{Die Konfigurationsseite des Freifunk-Routers ist nun nicht mehr erreichbar.} \footnote{Durch 3-5 sekündiges Drücken der Reset-Taste wird der Konfigurationsmodus des Routers wieder aktiviert. Anschließend kann wie in Schritt \ref{webinterface} fortgefahren werden.}
+  \item Nun wird dir der Schlüssel Deines Nodes angezeigt.
+  Klicke auf angegebenen Link um den Schlüssel in unser System einzutragen.
+  \footnote{Die Konfigurationsseite des Freifunk-Routers ist nun vorerst nicht mehr erreichbar.Durch 3-5 sekündiges Drücken der Reset-Taste wird der Konfigurationsmodus des Routers wieder aktiviert. Anschließend kann wie in Schritt \ref{webinterface} fortgefahren werden.}
 \end{enumerate}
 
-\item (optional) Verbinde nun die \textbf{WAN}-Buchse (blau) des Freifunk-Routers mit einer \textbf{LAN}-Buchse Deines Heimrouters, der Verbindung zum Internet hat. \footnote{Der Freifunk-Router kann sich so mit Hilfe des Mesh-VPN über das Internet mit dem übrigen Freifunk München Intranet verbinden.}
-
-\item Platziere den Freifunk-Router an einem Ort deiner Wahl. \label{platzieren}
+\item Verbinde nun die blaue \textbf{WAN}-Buchse des Freifunk-Routers mit einer \textbf{LAN}-Buchse Deines Heimrouters, der Verbindung zum Internet hat. \footnote{Der Freifunk-Router kann sich so mit Hilfe des Mesh-VPN über das Internet mit dem übrigen Freifunk München Intranet verbinden.}
 
 \item Fertig!
 \end{enumerate}
