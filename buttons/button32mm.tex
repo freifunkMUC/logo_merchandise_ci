@@ -1,0 +1,44 @@
+\documentclass[a4paper]{article}
+\usepackage{tikz}
+\usepackage{svg}
+\usepackage{ifthen}
+\usetikzlibrary[decorations.text]
+
+%\usepackage[T1]{fontenc}
+\usepackage{fontspec}
+%\usepackage{microtype}
+\setmainfont[Ligatures=TeX]{Swiss-911-Extra-Compressed}
+
+\begin{document}
+ \pagestyle{empty}
+
+ \fontsize{12}{0}
+
+\begin{tikzpicture}[remember picture, overlay]
+  \foreach \x in {0,...,3}\foreach \y in {0,...,4} {
+      \draw (current page.south west) ++ (3.0+\x*5.0,3.5+\y*5.5) node {
+        \begin{tikzpicture}[remember picture, overlay]
+	  \fill [color=white] (0,0) circle [radius=2.16cm];
+          \draw [color=black] (0,0) circle [radius=2.06cm];
+
+         \draw [decorate,decoration={text along path,text align=center,
+                text={|\Large|muenchen.freifunk.net}}]
+         (0,0) ++(180:1.1cm) arc (180:0:1.1cm);
+         
+         \draw [decorate,decoration={text along path,text align=center,
+                text={|\Large|muenchen.freifunk.net}}]
+         (0,0) ++(0:1.1cm) arc (360:180:1.1cm);
+
+          \node at (-1mm,0mm) {\input{Ffmuc-logo-vector}};
+          
+          % outer marker, no content outside this line
+	  %\draw [color=gray] (0,0) circle [radius=1.5cm];
+
+
+        \end{tikzpicture}
+	};
+  }
+\end{tikzpicture}
+
+
+\end{document}
