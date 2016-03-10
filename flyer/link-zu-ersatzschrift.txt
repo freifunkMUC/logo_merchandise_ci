@@ -1,0 +1,13 @@
+
+http://www.dafont.com/de/pilsen-plakat.font
+
+Die von Freifunk verwendete Schrift Swiss 911 ist nicht frei, ich bin daher auf eine für nicht-kommerzielle Zwecke kostenlos einsetzbare Schrift ausgewichen:
+"Pilsen Plakat" von Dieter Steffmann
+
+Auszug aus: https://wiki.freifunk.net/Freifunk-Styles
+
+== Freifunk-Font ==
+
+Das Logo und die freifunk.net verwendet die Swiss-911 Extra-compressed. Diese wurde von Förderverein freie Netzwerke e.V. lizensiert. Das bedeutet es können Grafiken mit Schriftzügen (eps, svg) erstellt werden, aber die Weitergabe der Schrift selbst ist nicht möglich. Die Lizenz erlaubt nur dem Käufer editierbare Dateien mit der Schrift zu erstellen. Bevor Ihr fragt: das Logo stammt aus einer Zeit als es nur wenige, eher unhübsche, freie Schriften gab ...
+
+Wer Interesse an einem Schriftzug für eine Community oder Dienst hat, meldet sich bei Monic. Jeder ist jedoch frei, eine andere Schrift zu benutzen, genau wie den Namen der lokalen Community. 
